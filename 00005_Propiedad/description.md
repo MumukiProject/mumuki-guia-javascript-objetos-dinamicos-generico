@@ -3,7 +3,7 @@ Para lograrlo vamos a definir la función `tienePropiedad` que reciba un perfil 
 
 ```js
 ム let perfil = {
-  nombreDeCuenta: "ada_lovelace",
+  nombreDeCuenta: "clara_gomez",
   contrasenia: "1234567890!",
 };
 
