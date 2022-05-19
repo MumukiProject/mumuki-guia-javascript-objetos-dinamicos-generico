@@ -2,7 +2,7 @@ Contamos con perfiles que tienen `nombreDeCuenta` y `contrasenia` y pueden tener
 
 ```js
 let perfilSinEmail = {
-  nombreDeCuenta: "ada_lovelace",
+  nombreDeCuenta: "clara_gomez",
   contrasenia: "1234567890!"
 };
 
